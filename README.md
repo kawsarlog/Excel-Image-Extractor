@@ -54,4 +54,3 @@ For any questions or feedback, feel free to reach out:
 Email: kawsar@kawsarlog.com
 
 Website: [kawsarlog.com](https://kawsarlog.com)
-```
