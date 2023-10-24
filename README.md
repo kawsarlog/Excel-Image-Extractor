@@ -7,7 +7,7 @@
 💡 You can easily extract photos 📸 from an Excel 📊 cell using this Python script. But wait, there's more! These photos can also be saved with names created by given cells. To discover how to make the most of this powerful tool, follow the steps below or watch the video guide. Happy extracting! ✨🔍
 
 ## Video Guide
-[![Excel Image Extractor Video Guide](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Excel Image Extractor Video Guide](https://img.youtube.com/vi/LJmv-keICyk/0.jpg)](https://www.youtube.com/watch?v=LJmv-keICyk)
 
 Check out our video guide for a step-by-step walkthrough of using Excel Image Extractor!
 
