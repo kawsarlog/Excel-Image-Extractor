@@ -30,7 +30,7 @@ Check out our video guide for a step-by-step walkthrough of using Excel Image Ex
 
 ## Configuration
 
-Edit the `config.ini` file to customize your extraction settings. Example configuration is provided in the repository.
+Edit the `config.ini` file to customize your extraction settings. An example configuration is provided in the repository.
 
 ## Usage
 
@@ -52,5 +52,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or feedback, feel free to reach out:
 
 Email: kawsar@kawsarlog.com
+
 Website: [kawsarlog.com](https://kawsarlog.com)
 ```
