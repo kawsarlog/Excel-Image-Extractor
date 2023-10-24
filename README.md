@@ -15,7 +15,7 @@ Check out our video guide for a step-by-step walkthrough of using Excel Image Ex
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/excel-image-extractor.git
+   git clone https://github.com/kawsarlog/excel-image-extractor.git
    ```
 
 2. **Navigate to the Project Directory:**
